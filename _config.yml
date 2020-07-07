@@ -14,13 +14,11 @@ author: AG
 navbar-links:
 
   Your Past:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Your Present:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Book Recs: "bookrecs"
-  About Me: "aboutme"
+  About Me: "about"
   #Author's home: "https://deanattali.com"
 
 mailchimp-list: //authenticgrowth.us9.list-manage.com/subscribe/post?u=adfe4caef2e4d91df0455b48f&amp;id=8b504e4ff8

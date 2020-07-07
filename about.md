@@ -1,0 +1,47 @@
+---
+author: anthonydgallo@gmail.com
+comments: true
+date: 2014-08-24 22:42:54+00:00
+layout: page
+link: https://www.authenticgrowth.com/about/
+slug: about
+title: About<br/>Authentic Growth
+cover-img: /assets/img/AboutSide.jpg
+thumbnail-img: /assets/img/AboutSide.png
+share-img: /assets/img/AboutSide.jpg
+tags:
+- About Authentic Growth
+- What is Authentic Growth
+- Who runs AuthenticGrowth.com
+---
+
+**Have you reached a point in your life where you want a change, but you don't know where to begin?**
+
+I reached that point back in 2009, a turning point in my life. Events had me feeling helpless, I wasn't sure what to do, so I looked up at the sky and shouted out "Help me, I don't know what I'm doing with myself anymore."
+
+It would've been great to say that the clouds instantly opened up in the sky, and that lightning came down and made everything better for me in that moment. But that didn't happen.
+
+Instead, I was given an insight. The thought occurred to me that everything I was experiencing at the moment was a result of the decisions I had made in my life prior, and that if I wanted to have a better life all I had to do was change my behaviors, my thoughts, and my actions, and that everything would be okay.
+
+**Every thought, decision, and action I took prior to looking up in the sky at that moment was what had culminated in me feeling helpless and alone. It was also at that moment that a spark of new life was born, with the idea that I was capable of changing just about anything that bothered me beforehand.**
+
+In the month's following this revelation, I began to change every habit and belief I ever held about myself. I realized that the way life had been was no longer the way it had to be. I started reading books, a LOT of books, and working on the beliefs I held about the world around me. Amazing things began happening once I took responsibility for my own thoughts and actions, and I realized that my life had taken a new and exciting turn.
+
+**AuthenticGrowth.com is about a vision. The idea that we are capable of 100x more than we think we are. The intuition that we have unlimited capabilities within ourselves, as long as we are willing to do the work and take the deep dives necessary to overcome the limiting beliefs from our past.**
+
+AuthenticGrowth.com exists to share information, tools, and wisdom that can and will have a positive impact on your life, should you choose to implement these ideas into your life.
+
+**This wisdom_ appears_ to be just out of the public's eye, and many people aren't aware of the incredible ability we have to change our life experience. AuthenticGrowth.com exists to change this.
+**
+
+We're here to crush the myth that the life you have now is the way it will always be, and to prove that significant transformations can be made with simple, actionable steps taken daily.
+
+If you're the type of person who is looking for growth, evolution, and discovery in your life, join us for this journey.
+
+** I vow to only write about concepts, ideas, and methods that have truly had a positive impact on my life experience and on my perception of the world.**
+
+I hope that each and every one of you discovers something on this free website that helps you grow, as it has helped me to become the person I am now.
+
+On the path that brings us freedom,
+
+**-Anthony from AuthenticGrowth.com**

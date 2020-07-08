@@ -43,4 +43,6 @@ There is no referall or affiliate link for Magic Mind. I'm writing this just to 
 
 Do with this post what you will.
 
+[Magic Mind](magicmind.co)
+
 -Anthony

@@ -14,12 +14,11 @@ author: AG
 navbar-links:
 
   Your Past:
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Where To Start: "https://www.authenticgrowth.com/"
   Your Present:
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - What To Start: "https://www.authenticgrowth.com/"
   Book Recs: "bookrecs"
   About Me: "about"
-  #Author's home: "https://deanattali.com"
 
 mailchimp-list: //authenticgrowth.us9.list-manage.com/subscribe/post?u=adfe4caef2e4d91df0455b48f&amp;id=8b504e4ff8
 # --- Logo --- #
@@ -42,10 +41,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "anthony@authenticgrowth.com"
+  #facebook: deanattali
+  #github: daattali
+  #twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali

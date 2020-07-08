@@ -3,9 +3,7 @@ author: anthonydgallo@gmail.com
 comments: true
 date: 2019-04-13 19:11:30+00:00
 layout: post
-link: https://www.authenticgrowth.com/on-forgetting-the-future/
-slug: on-forgetting-the-future
-title: On Forgetting The Future
+title: On Pausing The Future
 wordpress_id: 2901
 categories:
 - Personal Growth

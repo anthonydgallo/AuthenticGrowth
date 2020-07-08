@@ -1,7 +1,7 @@
 ---
 author: anthony@authenticgrowth.com
 comments: true
-date: {}
+date: 2020-07-08 16:00:57+00:00
 layout: post
 link: 'https://www.authenticgrowth.com/magicmind-co/'
 slug: magicmind-co

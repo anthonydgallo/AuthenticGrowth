@@ -1,31 +1,32 @@
 ---
 author: anthonydgallo@gmail.com
 comments: true
-date: 2017-05-21 20:11:03+00:00
+date: {}
 layout: post
-link: https://www.authenticgrowth.com/pu-erh-tea/
+link: 'https://www.authenticgrowth.com/pu-erh-tea/'
 slug: pu-erh-tea
-title: 'How To Quit Coffee: My Pu-Erh Tea Habit'
+title: 'Coffee Alternatives: My Pu-Erh Tea Habit'
 wordpress_id: 2695
 categories:
-- Health and Fitness
-- Personal Growth
+  - Health and Fitness
+  - Personal Growth
 tags:
-- benefits of po er tea
-- benefits of pu erh
-- benefits of pu erh tea
-- health benefits pu-erh
-- how to stop drinking coffee
-- po-erh
-- pu er tea
-- pu erh healthy
-- pu-erh
-- pu-erh benefits
-- pu-erh cha
-- pu-erh tea
-- puer tea
-- puh-erh
-- replacing coffee with tea
+  - benefits of po er tea
+  - benefits of pu erh
+  - benefits of pu erh tea
+  - health benefits pu-erh
+  - how to stop drinking coffee
+  - po-erh
+  - pu er tea
+  - pu erh healthy
+  - pu-erh
+  - pu-erh benefits
+  - pu-erh cha
+  - pu-erh tea
+  - puer tea
+  - puh-erh
+  - replacing coffee with tea
+published: true
 ---
 
 _**"All true tea lovers not only like their tea strong, but like it a little stronger with each year that passes." – George Orwell**_

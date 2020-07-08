@@ -1,7 +1,7 @@
 ---
 author: anthony@authenticgrowth.com
 comments: true
-date: 2020-07-08T16:00:57.000Z
+date: {}
 layout: post
 link: 'https://www.authenticgrowth.com/magicmind-co/'
 slug: magicmind-co
@@ -13,8 +13,9 @@ share-img: /assets/img/magicmind_co.jpg
 categories:
   - Personal Growth
 tags: null
+published: true
 ---
-Over the years I've tried a lot of different supplements.
+Over the years I've tried a lot of different supplements. MagicMind is the latest brain booster I've been enjoying during WFH quarantine.
 
 I'm a bio-hacker at heart and I've grown through seeing and becoming aware of how vitamins and nutrients affect my mind.
 
@@ -43,4 +44,3 @@ There is no referall or affiliate link for Magic Mind. I'm writing this just to 
 Do with this post what you will.
 
 -Anthony
-

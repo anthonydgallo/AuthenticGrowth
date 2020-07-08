@@ -28,6 +28,11 @@
         <a href="{{ '' | absolute_url }}">{{ site.url-pretty }}</a>
       {% endif %}
 
+      {% if site.affiliate-disclosure %}
+      &nbsp;&bull;&nbsp;
+      <a href="{{ site.affiliate-disclosure }}">Affiliate Disclosure</a>
+    {% endif %}
+
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
           &nbsp;&bull;&nbsp;

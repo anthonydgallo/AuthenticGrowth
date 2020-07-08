@@ -34,7 +34,7 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-
+affiliate-disclosure: './affiliate-disclosure'
 # --- Footer options --- #
 
 # Select the social network links that you want to show in the footer.

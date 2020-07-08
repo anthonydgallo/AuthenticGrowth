@@ -17,9 +17,9 @@ published: true
 ---
 Over the years I've tried a lot of different supplements. MagicMind is the latest brain booster I've been enjoying during WFH quarantine.
 
-I'm a bio-hacker at heart and I've grown through seeing and becoming aware of how vitamins and nutrients affect my mind.
+I'm a bio-hacker at heart and I've grown through seeing and becoming aware of how vitamins and nutrients affect my mind. I'm always looking for new things. I've strayed away from products that are just chemical concentrates, because these tend to overstimulate or have negative side affects. MagicMind is something new though and the ingredient list is excellent.
 
-****Enter Magic Mind****
+## **Enter Magic Mind**
 
 For the first time since trying out a nootropic mix called Tian Chi a while back, I've found another product that has been doing wonders for me recently. 
 

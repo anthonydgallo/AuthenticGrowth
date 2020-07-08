@@ -13,7 +13,6 @@ share-img: /assets/img/magicmind_co.jpg
 categories:
   - Personal Growth
 tags: null
-published: false
 ---
 Over the years I've tried a lot of different supplements.
 

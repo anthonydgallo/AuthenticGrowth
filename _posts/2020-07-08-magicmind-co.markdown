@@ -1,7 +1,7 @@
 ---
 author: anthony@authenticgrowth.com
 comments: true
-date: 2020-07-08 16:00:57+00:00
+date: '2020-07-08 16:00:57+00:00'
 layout: post
 link: 'https://www.authenticgrowth.com/magicmind-co/'
 slug: magicmind-co
@@ -15,7 +15,7 @@ categories:
 tags: null
 published: true
 ---
-Over the years I've tried a lot of different supplements. MagicMind is the latest brain booster I've been enjoying during WFH quarantine.
+Over the years I've tested a lot of different mind supplements. MagicMind is a new brain booster I've been enjoying during quarantine.
 
 I'm a bio-hacker at heart and I've grown through seeing and becoming aware of how vitamins and nutrients affect my mind. I'm always looking for new things. I've strayed away from products that are just chemical concentrates, because these tend to overstimulate or have negative side affects. MagicMind is something new though and the ingredient list is excellent.
 

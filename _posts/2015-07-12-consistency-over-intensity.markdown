@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2015-07-12 18:56:07+00:00
 layout: post

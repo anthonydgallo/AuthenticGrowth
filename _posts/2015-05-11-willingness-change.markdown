@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2015-05-11 23:46:27+00:00
 layout: post
@@ -34,7 +34,7 @@ There is nothing that can stop me from seeking out the ideas, concepts, beliefs,
 **The willingness to change allows us to see new things that often go ignored. We begin to accept ideas that help us to grow in ways that most others would pass by, simply because these ideas aren't conventionally accepted.**
 
 Personal Growth and Development wasn't always the big arena that it is today. It has grown this way because of peoples' willingness to try new things and to look at the world from a different perspective. The willingnes to change, grow, and allow new beliefs into our lives allows us to break our old patterns and see things with a fresh light. If you want to change, the simplest way to do that is to stop doing the things you used to do before. You are the sum total of all your thoughts and actions up until this point. If you aren't happy with where you are right now, or wish to experience a more positive future, the first step is to expand your willingness to change.
-[adinserter block="1"]
+
 
 **The degree to which we will experience positive, powerful growth in our lives is directly proportional to the degree to which we allow ourselves to open up to new ideas.**
 
@@ -68,4 +68,4 @@ Being willing to change and grow will allow you to further expand on other's ide
   * **[Transform Your Beliefs, Transform Your Life](http://amzn.to/1Tuufd2)** by Karl Dawson
 
 
-[adinserter block="1"]
+

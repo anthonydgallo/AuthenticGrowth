@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2017-02-26 17:57:53+00:00
 layout: post
@@ -44,7 +44,7 @@ You subtly drown out your own thoughts with the outrage-inducing headlines you r
 
 
 This process of partial absorption of a lot of material headlines drowns out our own thought process. The thoughts we think are our own unique thoughts have actually been influenced by a few strategically placed words in the headlines we read earlier - influencing us in a certain direction that we may have otherwise had completely different opinions about if we had spent time to do more complete research. Your voice becomes the conglomerate of echo chamber voices, which prevents you from solidifying your own style of thought.
-[adinserter block="1"]
+
 **Social Media unintentionally (and frequently) causes you to contrast yourself with other people**
 
 
@@ -76,7 +76,7 @@ It is very well known that Facebook has highly advanced algorithms working to fe
 
 
 Another funny thing Facebook does is show you things that may outrage you - which studies have found is the fastest way to get news to spread. You may think this counts as exposing you to new ideas, but in fact what this is actually doing is causing you to hold strong to your previous beliefs even more, by getting you to believe you've considered an alternate view - while in fact you've just read an article that just gives you ammunition for your current beliefs.
-[adinserter block="1"]
+
 **Networks like Facebook, Instagram, and Twitter get you addicted to their service - by making you believe "likes" have value and by emailing you more dopamine-inducing content if you leave.**
 
 
@@ -110,5 +110,5 @@ It's true that Social Media has done great things for keeping people connected a
 
 
 **-Anthony From AuthenticGrowth.com
-[adinserter block="1"]
+
 **

@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-14 23:29:58+00:00
 layout: post
@@ -58,7 +58,7 @@ Part of living a healthy life is helping your body release some of the stuff 
 
 **Step 5:** Mix it all together in the bath, grab yourself a bottle of water and a skin brush or loofah, and hop in the bath.
 
-[adinserter block="1"]
+
 
 **Personal Note:** The Niacin will make your skin flush red, including your face and arms. This goes away about an hour after your bath. So if you're going to do this, make sure you don't have plans shortly afterwards seeing as you will be red as a tomato for about an hour. Your body will also be in a detoxification phase for a few hours post-bath, so you should give it time to rest during this time.
 
@@ -99,4 +99,4 @@ I loved the way I felt after doing this detox bath and will be doing it again ne
 </table>
 **-Anthony From AuthenticGrowth.com**
 
-[adinserter block="1"]
+

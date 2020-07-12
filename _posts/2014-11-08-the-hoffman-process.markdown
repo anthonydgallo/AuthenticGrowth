@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2014-11-08 21:54:49+00:00
 layout: post
@@ -48,7 +48,7 @@ It's been approximately 7 days since my return from the residential Hoffman Proc
 
 **I tried to do some research online before going to the process to see what exercises we might be doing at The Process.** The only thing I could really glean in advance was that we'd be using yellow wiffle ball bats to beat out our anger into pillows. While that sounded silly before The Process, after having done it I could not believe how much anger I had suppressed inside my body. It became clear to my why there is nothing available online about the events that proceed later on in the week- the element of surprise is crucial, and the effect of these events on you are incredibly powerful.
 
-[adinserter block="1"]
+
 
 **I will say this to would-be information seekers trying to plan their process- just let it go.** The events after the first two days are so incredible, and so powerful, I truly feel that the entire experience was well worth the price I paid for it. I went into trying to intellectualize everything, and when I let that go and just let The Process be The Process, I gained so much more insight into myself and how I function.
 
@@ -58,7 +58,7 @@ It's been approximately 7 days since my return from the residential Hoffman Proc
 
 **After coming home, I could tell things had shifted in me in an immense way.** I'm still currently "transitioning" and noticing the effects that The Process has had on me. First off, during the process, you undergo visualizations almost every day, and they leave you feeling absolutely incredible and empowered. You truly feel like you can accomplish anything and they open you up to exploring parts of yourself that you never would have explored otherwise. Upon returning home, I still hold many aspects of those visualizations clearly in my mind and I use these images to help guide me throughout my life.
 
-[adinserter block="1"]
+
 
 **Another thing I would suggest to would-be Process attendees, is to bring several easy flowing pens.** You will be doing a lot of writing, which is incredibly liberating. I brought **[several Uni-ball vision needle pens](http://www.amazon.com/gp/product/B000ZPIROG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000ZPIROG&linkCode=as2&tag=escapicom-20&linkId=XIF6RUVUKLXLZ47N)**, which are my favorite pen for journaling and writing because the ink just flows so smoothly out of those things. I think I honestly went through four of those pens while at The Process. If you don't feel like bringing your own pens in advance, don't fear, there were ample amounts of Hoffman pens available in baskets throughout the process.
 

@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2014-11-10 19:36:24+00:00
 layout: post
@@ -100,7 +100,7 @@ One important thing for nutrition is the fact that most of the foods we eat have
 
 
 Yes, eating healthy is more expensive than eating "average", but I consider it an investment in the only thing that makes life possible: my human body.
-[adinserter block="1"]
+
 **Without great health, we end up just deteriorating and living a less-than-fulfilling life.**
 
 
@@ -163,7 +163,7 @@ Finally, the most often neglected part of every person's day, its time to talk a
 
 
 For the last year I often thought I was getting around 7 hours of sleep, but in reality I was probably getting more like 5 1/2 to 6 hours of sleep. Why? Because laying in bed awake doesn't count as sleeping.
-[adinserter block="1"]
+
 **I was counting time that I spent laying there in bed before I actually fell asleep as real sleep, which it isn't. **
 
 
@@ -202,5 +202,5 @@ If you have any questions about my personal routine, how to eat healthier, or an
 
 
 **-Anthony From AuthenticGrowth.com
-[adinserter block="1"]
+
 **

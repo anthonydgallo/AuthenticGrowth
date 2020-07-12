@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2015-01-11 18:37:12+00:00
 layout: post
@@ -51,7 +51,7 @@ If we spend our entire day neglecting the better aspects of ourselves, we're com
 While we're off spending our day at work, focusing on other peoples' tasks and living in the hustle and bustle, it seems like there is almost **[no time](http://www.authenticgrowth.com/creating-time/)** to give ourselves what we truly need.
 
 I believe that Self-love, especially through the appreciation of different aspects of yourself, is the missing ingredient in today's work-life balance.
-[adinserter block="1"]
+
 
 **How To Practice Self-Love**
 
@@ -109,4 +109,4 @@ The gift of love can only be shared if you love yourself. If you don't love your
 </tbody>
 </table>
 **-Anthony from AuthenicGrowth.com
-**[adinserter block="1"]
+**

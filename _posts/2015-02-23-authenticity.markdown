@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: false
 date: 2015-02-23 12:00:53+00:00
 layout: post
@@ -39,7 +39,7 @@ In order to live an Authentic life, we must first decide what we want. This is 
 
 If something is not in line with this 10.0 lifestyle, quite simply- don't do it. I found myself, early in life, acting towards others in the way that I thought would best appeal to them. What this had me doing was adopting traits from people, and when I was around them I would mold to these people's personalities. While this sounds good from a rapport-building point of view, it had me living life with "multiple-personalities." No, not as serious as the psychological disorder, but still- walking into each and every situation I felt like a different person. What I realized was that living life this way had me living a life that was crafted for other people. In having this realization I gained the wisdom that if I am to truly be happy, I have to express who _I_ am without the mask.
 
-[adinserter block="1"]
+
 
 **What we need to realize, as early as possible, is that our lives are entirely crafted by our own thoughts and attitudes. If I want to live the most fulfilling life possible, I have to do what is most in line with _myself_ and my beliefs. I have to take the actions that most align with who I am.**
 
@@ -75,4 +75,4 @@ Live with the confidence and wisdom that this is the way you want to proceed wit
 </table>
 **-Anthony from AuthenticGrowth.com**
 
-[adinserter block="1"]
+

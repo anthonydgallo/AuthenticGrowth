@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-05 15:17:53+00:00
 layout: post
@@ -54,7 +54,7 @@ Practicing the **[Morning Pages](http://amzn.to/2a0Tjqm)** helps you start your 
 
 Another amazing benefit is that as you discuss your problems or anything that's going on in your life on the pages, your mind starts to fill in the blanks with ideas that you wouldn't have thought of otherwise. Normally we walk around with a mind filled with jumbled and convoluted thoughts regarding certain ideas and experiences in our lives. When you start practicing the Morning Pages, you begin to unjumble and reorganize the thoughts in your mind, and you'll notice that your issues become much easier to solve. I've found some many creative solutions and ideas written write before my on the pages, my only duty was to show up EVERY SINGLE MORNING and allow the pen to move. It has become almost a spiritual practice for me, and Julia Cameron would agree that this is exactly what the Morning Pages exercise is.
 
-[adinserter block="1"]
+
 
 I now feel that I can write a lot about any topic that comes to mind. I don't have issues thinking about what to write for anything since I've started the Morning Pages. Its like you open your mind and move past thoughts like "Oh I have no idea what to write, I can't write anything about this". Now, if I have to, I can write 5-10 pages about anything. This has been especially useful in school for me when I have to write essays or doing long-form answers on exams. This practice seriously expands your creative abilities.
 
@@ -78,4 +78,4 @@ I hope you enjoy. If journaling has had a positive impact on your life- let me k
 
 **-Anthony From AuthenticGrowth.com**
 
-[adinserter block="1"]
+

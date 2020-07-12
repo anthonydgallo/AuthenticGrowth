@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2017-10-06 14:50:11+00:00
 layout: post
@@ -30,7 +30,7 @@ I've grown a lot since then and learned way more than I could have ever expected
 _**Random opportunity and good fortune are a definite part of the process**_
 
 I used to believe that I could control all aspects of my future and my success. I still believe largely in the idea that we can influence and control major portions of our lives, much more than we're inclined to believe, however there is a definitely element of random luck and opportunity in each and every person's career ladder. You will notice this consistently in biographies and documentaries - many times the most successful people in the world had early breaks in life that were simply just random chance. The point of noting this is that you should keep your eyes open for these random opportunities, because it is impossible to fully predict where they will lead you in your career.
-[adinserter block="1"]
+
 _**Building on fundamentals will help you prepare for the unexpected**_
 
 Another thing I've learned through years of practicing personal development is that although there are unexpected events in life - practicing your fundamentals will help you be prepared for the unexpected. Fundamentals like exercise, practicing self-awareness, journaling, meditating, and reading books for self-education. Developing a growth mindset will help you handle the unexpected much better than if you just try to tackle every problem that arises. I focus a lot on self-education through reading non-fiction books, because I pick up a varied account of people's lives and things they've done to overcome adversity. Other people's experiences all help to form a bridge in my mind to cross when new obstacles come up in my life.

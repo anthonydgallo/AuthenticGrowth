@@ -1,5 +1,5 @@
 ---
-author: anthonydgallo@gmail.com
+author: anthony@authenticgrowth.com
 comments: true
 date: 2015-05-02 20:05:23+00:00
 layout: post
@@ -42,7 +42,7 @@ There is so much that your mind does with the things that you think about. If we
 
 In his great book [The One Thing](http://amzn.to/1dDsJps), Gary Keller teaches us that extraordinary results are directly determined by how narrow we can make our focus. He goes on to make the case that in order to have the absolute best chance at success- we have to ignore all the things that we could do and do the things that we should do. The important message is in realizing that though we like to believe that all things in our lives are a priority, not all things matter equally. The gift and the secret of success here is in prioritizing, removing, and reallocating your focus towards your key objectives. These objectives are the practices that will get you to where you want to go, such as exercising daily, reading, or learning a foreign language.
 
-[adinserter block="1"]
+
 
 **To free your mind and make room for a narrow state of focus, work on converting your conscious activities into subconscious habits. Successful habits take all the effort out of an activity, freeing your focus for other things.**
 
@@ -68,4 +68,4 @@ Open up and release the hold you have on the things that used to bother you. Tak
   * **[The Power of Full Engagement](http://amzn.to/1JImPRd)** by Jim Loehr
 
 
-[adinserter block="1"]
+

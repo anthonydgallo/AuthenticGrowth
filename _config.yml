@@ -18,7 +18,8 @@ navbar-links:
   Your Present:
     - What To Start: "https://www.authenticgrowth.com/"
   Book Recs: "bookrecs"
-  About Me: "about"
+  Supplements: "supplements"
+  About: "about"
 
 mailchimp-list: //authenticgrowth.us9.list-manage.com/subscribe/post?u=adfe4caef2e4d91df0455b48f&amp;id=8b504e4ff8
 # --- Logo --- #
@@ -110,7 +111,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-54187800-1"
 
 # Google Tag Manager ID
 #gtm: ""

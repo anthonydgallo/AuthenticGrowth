@@ -1,7 +1,7 @@
 ---
 author: anthonydgallo@gmail.com
 comments: true
-date: 2019-04-13 19:11:30+00:00
+date: '2019-04-13 19:11:30+00:00'
 layout: post
 title: On Pausing The Future
 wordpress_id: 2901

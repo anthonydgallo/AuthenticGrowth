@@ -4,6 +4,9 @@ author: anthony@authenticgrowth.com
 comments: true
 date: '2019-04-17 16:00:57 +0000'
 layout: post
+link: https://www.authenticgrowth.com/on-being-told-what-to-think/
+slug: on-being-told-what-to-think
+wordpress_id: 2926
 categories:
 - Personal Growth
 tags:

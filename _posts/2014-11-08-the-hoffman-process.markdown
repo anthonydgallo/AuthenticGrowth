@@ -3,7 +3,8 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-11-08 21:54:49+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-hoffman-process/
+redirect_from:
+- /the-hoffman-process/
 slug: the-hoffman-process
 title: 'The Hoffman Process: An Authentic Attendee''s Review'
 wordpress_id: 856

@@ -3,7 +3,8 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-06-27 22:42:42+00:00
 layout: post
-link: https://www.authenticgrowth.com/hoffman-process-q2/
+redirect_from:
+- /hoffman-process-q2/
 slug: hoffman-process-q2
 title: 'The Hoffman Q2 Intensive: An Authentic Attendee''s Review'
 wordpress_id: 1813

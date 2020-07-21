@@ -3,7 +3,8 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-02-07 21:54:09+00:00
 layout: post
-link: https://www.authenticgrowth.com/growth-mindset/
+redirect_from:
+- /growth-mindset/
 slug: growth-mindset
 title: 'Conscious Living: Why You Need a Growth Mindset'
 wordpress_id: 1392

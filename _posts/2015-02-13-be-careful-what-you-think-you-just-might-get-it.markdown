@@ -7,6 +7,7 @@ link: https://www.authenticgrowth.com/be-careful-what-you-think-you-just-might-g
 slug: be-careful-what-you-think-you-just-might-get-it
 title: How Your Thoughts Create Your World
 wordpress_id: 1459
+published: false
 categories:
 - Personal Growth
 - Realizations

@@ -3,7 +3,8 @@ author: anthony@authenticgrowth.com
 comments: false
 date: 2015-02-23 12:00:53+00:00
 layout: post
-link: https://www.authenticgrowth.com/authenticity/
+redirect-from:
+- /authenticity/
 slug: authenticity
 title: 'Authentic Growth: Why You Need To Be Real With Yourself'
 wordpress_id: 1535

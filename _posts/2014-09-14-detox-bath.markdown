@@ -4,6 +4,8 @@ comments: true
 date: 2014-09-14 23:29:58+00:00
 layout: post
 link: https://www.authenticgrowth.com/detox-bath/
+redirect-from:
+- /detox-bath/
 slug: detox-bath
 title: 'Detoxing Your Life: The Niacin, Ginger, and Epsom Salt Bath'
 wordpress_id: 543

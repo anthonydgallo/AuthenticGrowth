@@ -7,6 +7,7 @@ link: https://www.authenticgrowth.com/how-to-be-happy/
 slug: how-to-be-happy
 title: 'How To Be Happier: The 6 Steps To A Better Life'
 wordpress_id: 1229
+hidden: true
 categories:
 - Health and Fitness
 - Personal Growth
@@ -43,9 +44,6 @@ tags:
 - ways to be happy
 - what can i do today to be happy
 ---
-
-**This report is also available in PDF format: **[http://authenticgrowth.com/Howtobehappy.pdf](http://AuthenticGrowth.com/Howtobehappy.pdf)
-
 
 ### **Introduction**
 

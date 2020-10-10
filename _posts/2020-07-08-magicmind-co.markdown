@@ -3,8 +3,6 @@ author: anthony@authenticgrowth.com
 comments: true
 date: '2020-07-08 16:00:57+00:00'
 layout: post
-link: 'https://www.authenticgrowth.com/magicmind-co/'
-slug: magicmind-co
 title: Magic Mind - A Brain Booster That Works
 wordpress_id: 2926
 cover-img: /assets/img/magicmind_co.jpg

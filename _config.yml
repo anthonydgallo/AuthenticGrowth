@@ -238,13 +238,33 @@ prose:
           label: "author"
           element: "text"
           value: "Anthony"
-      - name: "excerpt"
-        field:
-          label: "excerpt"
-          element: "text"
-          placeholder: "Enter excerpt"
+      # - name: "excerpt"
+      #   field:
+      #     label: "excerpt"
+      #     element: "text"
+      #     placeholder: "Enter excerpt"
       - name: "meta"
         field:
           label: "meta"
           element: "text"
           placeholder: "Enter metadata"
+      - name: "title"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "Title For Post"
+      - name: "thumbnail-img"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "/assets/img/magicmind_co.jpg"
+      - name: "share-img"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "/assets/img/magicmind_co.jpg"
+      - name: "cover-img"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "/assets/img/magicmind_co.jpg"

@@ -4,6 +4,7 @@ comments: true
 date: '2020-07-08 16:00:57+00:00'
 layout: post
 title: Magic Mind - A Brain Booster That Works
+permalink: /magicmind/
 wordpress_id: 2926
 cover-img: /assets/img/magicmind_co.jpg
 thumbnail-img: /assets/img/magicmind_co.jpg

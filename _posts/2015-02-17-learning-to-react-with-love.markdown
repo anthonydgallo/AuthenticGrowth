@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: false
 date: 2015-02-17 12:30:23+00:00
 layout: post
-link: https://www.authenticgrowth.com/learning-to-react-with-love/
+permalink: /learning-to-react-with-love/
 published: false
 slug: learning-to-react-with-love
 title: Learning to React With Love

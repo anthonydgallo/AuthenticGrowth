@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-01-26 23:44:09+00:00
 layout: post
-link: https://www.authenticgrowth.com/a-step-above-thought/
+permalink: /a-step-above-thought/
 published: false
 slug: a-step-above-thought
 title: 'A Step Above Thought: Praying Without Words'
@@ -38,14 +38,11 @@ There was a portion at the end of the biography that talked about praying for sp
 
 Specific events or items in our lives are encompassed by the over-arching concept that we are all surrounded by, and living in, a loving presence.
 
-**Another great concept that hit me hard was the idea that words are just a second degree of separation from reality.** The first degree of separation is our perception of reality, which is filtered through our senses in our brain.Words are simply a description of the first degree of separation from reality, not true reality (which is probably incomprehensible) and so when you pray without words- you're closer to the underlying source of things.
+**Another great concept that hit me hard was the idea that words are just a second degree of separation from reality.** The first degree of separation is our perception of reality, which is filtered through our senses in our brain. Words are simply a description of the first degree of separation from reality, not true reality (which is probably incomprehensible) and so when you pray without words - you're closer to the underlying source of things.
 
 _This idea left me incredibly intrigued, so needless to say I decided I would give it a go._<!-- more -->
 
 **These are the steps that I went through to get to a feeling of complete peace which eventually lead me to falling asleep:**
-
-
-
  	
   1. Think about what you want to pray for
 

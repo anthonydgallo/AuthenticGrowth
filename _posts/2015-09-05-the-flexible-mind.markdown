@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-09-05 23:00:40+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-flexible-mind/
+permalink: /the-flexible-mind/
 slug: the-flexible-mind
 title: 'The Flexible Mind: How Adapting To Change Enhances Your Life'
 wordpress_id: 1916

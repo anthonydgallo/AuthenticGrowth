@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-10-11 22:30:36+00:00
 layout: post
-link: https://www.authenticgrowth.com/creating-time/
+permalink: /creating-time/
 published: false
 slug: creating-time
 title: 'Creating Time: How To Expand And Contract Your Sense of Time'

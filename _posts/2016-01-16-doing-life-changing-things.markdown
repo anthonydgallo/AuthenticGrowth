@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2016-01-16 23:43:16+00:00
 layout: post
-link: https://www.authenticgrowth.com/doing-life-changing-things/
+permalink: /doing-life-changing-things/
 slug: doing-life-changing-things
 title: 'On Life-Changing Things: Getting LASIK'
 wordpress_id: 2023

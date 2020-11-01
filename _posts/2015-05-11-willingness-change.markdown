@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-05-11 23:46:27+00:00
 layout: post
-link: https://www.authenticgrowth.com/willingness-change/
+permalink: /willingness-change/
 slug: willingness-change
 title: The Willingness To Change
 wordpress_id: 1726

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-02-02 17:00:28+00:00
 layout: post
-link: https://www.authenticgrowth.com/how-to-be-happy/
+permalink: /how-to-be-happy/
 slug: how-to-be-happy
 title: 'How To Be Happier: The 6 Steps To A Better Life'
 wordpress_id: 1229

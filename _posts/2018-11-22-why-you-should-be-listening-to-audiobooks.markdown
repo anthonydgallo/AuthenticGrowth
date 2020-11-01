@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2018-11-22 16:46:18+00:00
 layout: post
-link: https://www.authenticgrowth.com/why-you-should-be-listening-to-audiobooks/
+permalink: /why-you-should-be-listening-to-audiobooks/
 slug: why-you-should-be-listening-to-audiobooks
 title: Why You Should Be Listening To Audiobooks
 wordpress_id: 2849

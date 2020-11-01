@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-05-02 20:05:23+00:00
 layout: post
-link: https://www.authenticgrowth.com/your-perspective-matters/
+permalink: /your-perspective-matters/
 slug: your-perspective-matters
 title: 'Your Perspective Matters: Focusing On The Important Things'
 wordpress_id: 1707

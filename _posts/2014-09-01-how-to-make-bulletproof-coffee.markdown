@@ -3,7 +3,8 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-01 18:12:15+00:00
 layout: post
-link: https://www.authenticgrowth.com/how-to-make-bulletproof-coffee/
+permalink: /how-to-make-bulletproof-coffee/
+published: false
 slug: how-to-make-bulletproof-coffee
 title: 'BulletProof Coffee: A Blast of Ketones To Start Your Morning'
 wordpress_id: 61

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-11-13 16:38:42+00:00
 layout: post
-link: https://www.authenticgrowth.com/live-as-if-your-thoughts-are-not-private/
+permalink: /live-as-if-your-thoughts-are-not-private/
 slug: live-as-if-your-thoughts-are-not-private
 title: Live As If Your Thoughts Are Not Private
 wordpress_id: 892
@@ -22,7 +22,7 @@ tags:
 - Your Thoughts Are Not Private
 ---
 
-**This is an experiment in authenticity... what will you become?**
+**This is a thought experiment in authenticity... what will you become?**
 
 What if we lived this way? As if our thoughts were not private?
 

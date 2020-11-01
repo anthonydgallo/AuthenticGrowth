@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-04-14 21:51:28+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-boy-and-the-crocodile/
+permalink: /the-boy-and-the-crocodile/
 slug: the-boy-and-the-crocodile
 title: 'A Fable: The Boy and The Crocodile'
 wordpress_id: 1672

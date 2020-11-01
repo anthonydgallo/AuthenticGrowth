@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2017-01-22 00:24:07+00:00
 layout: post
-link: https://www.authenticgrowth.com/biking-in-the-winter/
+permalink: /biking-in-the-winter/
 published: false
 slug: biking-in-the-winter
 title: How To Ride Your Bike To Work (In The Winter)

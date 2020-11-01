@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-11-22 18:46:47+00:00
 layout: post
-link: https://www.authenticgrowth.com/you-are-not-your-body/
+permalink: /you-are-not-your-body/
 published: false
 slug: you-are-not-your-body
 title: 'Self-Separation: You Are Not Your Body'

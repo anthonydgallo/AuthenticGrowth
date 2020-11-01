@@ -4,7 +4,6 @@ comments: true
 date: 2014-08-30 13:00:41+00:00
 layout: post
 permalink: /tian-chi-energy/
-slug: tian-chi-energy
 title: 'Tian Chi: A High Quality Chinese Herb Mix For Mental Clarity'
 wordpress_id: 139
 categories:

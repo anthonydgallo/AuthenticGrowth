@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: false
 date: 2015-02-24 12:43:35+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-price-of-personal-growth/
+permalink: /the-price-of-personal-growth/
 published: false
 slug: the-price-of-personal-growth
 title: 'Investing In Yourself: The Cost of Personal Growth'

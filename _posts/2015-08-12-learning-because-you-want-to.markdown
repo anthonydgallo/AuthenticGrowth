@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-08-12 20:27:17+00:00
 layout: post
-link: https://www.authenticgrowth.com/learning-because-you-want-to/
+permalink: /learning-because-you-want-to/
 slug: learning-because-you-want-to
 title: 'Differentiating Yourself: Habitually Learning New Things'
 wordpress_id: 1898

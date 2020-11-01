@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-02-13 15:09:03+00:00
 layout: post
-link: https://www.authenticgrowth.com/be-careful-what-you-think-you-just-might-get-it/
+permalink: /be-careful-what-you-think-you-just-might-get-it/
 slug: be-careful-what-you-think-you-just-might-get-it
 title: How Your Thoughts Create Your World
 wordpress_id: 1459

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-10-18 21:16:40+00:00
 layout: post
-link: https://www.authenticgrowth.com/your-shadow-self/
+permalink: /your-shadow-self/
 slug: your-shadow-self
 title: 'Projection: Recognizing And Conquering Your Shadow'
 wordpress_id: 784

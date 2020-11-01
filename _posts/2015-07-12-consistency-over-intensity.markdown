@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-07-12 18:56:07+00:00
 layout: post
-link: https://www.authenticgrowth.com/consistency-over-intensity/
+permalink: /consistency-over-intensity/
 slug: consistency-over-intensity
 title: 'Consistency Over Intensity: The Key To Lasting Gains'
 wordpress_id: 1879

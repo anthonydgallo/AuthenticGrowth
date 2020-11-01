@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2017-04-02 18:32:21+00:00
 layout: post
-permalink: /radcity-review-replace-your-car-with-an-electric-bike/
+permalink: /radcity-review/
 slug: radcity-review-replace-your-car-with-an-electric-bike
 title: 'The RadCity Review: Why You Should Replace Your Car With An Electric Bike'
 wordpress_id: 2623

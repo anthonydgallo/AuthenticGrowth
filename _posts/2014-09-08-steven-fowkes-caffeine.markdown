@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-08 18:54:30+00:00
 layout: post
-link: https://www.authenticgrowth.com/steven-fowkes-caffeine/
+permalink: /steven-fowkes-caffeine/
 slug: steven-fowkes-caffeine
 title: Is Caffeine Bad For You? - Steven Fowkes On Caffeine
 wordpress_id: 447

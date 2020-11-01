@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-12-19 21:57:36+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-to-be-list/
+permalink: /the-to-be-list/
 slug: the-to-be-list
 title: 'Shrink Your To-Do List: Start a To-Be List'
 wordpress_id: 963

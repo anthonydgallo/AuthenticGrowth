@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-05 15:17:53+00:00
 layout: post
-link: https://www.authenticgrowth.com/morning-pages/
+permalink: /morning-pages/
 slug: morning-pages
 title: 'The Morning Pages: How Writing 3 Pages a Day Can Change Your Life'
 wordpress_id: 337

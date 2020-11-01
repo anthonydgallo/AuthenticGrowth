@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-08-27 03:35:17+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-mission-statement/
+permalink: /the-mission-statement/
 published: false
 slug: the-mission-statement
 title: 'The Mission Statement: Welcoming Myself Back To The Online Game'

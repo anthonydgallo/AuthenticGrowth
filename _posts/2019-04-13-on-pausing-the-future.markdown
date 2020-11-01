@@ -4,6 +4,7 @@ comments: true
 date: '2019-04-13 19:11:30+00:00'
 layout: post
 title: On Pausing The Future
+permalink: /on-pausing-the-future/
 wordpress_id: 2901
 categories:
 - Personal Growth

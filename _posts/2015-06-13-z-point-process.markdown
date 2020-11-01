@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-06-13 20:08:50+00:00
 layout: post
-link: https://www.authenticgrowth.com/z-point-process/
+permalink: /z-point-process/
 published: false
 slug: z-point-process
 title: How To Release Emotional Baggage With The Z Point Process

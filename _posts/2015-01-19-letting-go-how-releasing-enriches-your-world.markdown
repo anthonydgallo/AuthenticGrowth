@@ -3,8 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-01-19 02:03:17+00:00
 layout: post
-link: https://www.authenticgrowth.com/letting-go-how-releasing-enriches-your-world/
-slug: letting-go-how-releasing-enriches-your-world
+permalink: /releasing-sedona-method-agflap-cap/
 title: 'Letting Go: How "Releasing" Enriches Your World'
 wordpress_id: 1124
 categories:
@@ -78,12 +77,7 @@ The **[Sedona Method](http://www.amazon.com/gp/product/0971933413/ref=as_li_qf_s
 
 I personally tend to have a propensity for wanting to control the outcomes of events in my life. Using the release process from The Sedona Method and Lester Levenson has without a doubt altered my personal growth path for the better.
 
-In addition to the Sedona Method book, I just recently finished reading **[Happiness is Free](http://www.amazon.com/gp/product/B00JVAW5N0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JVAW5N0&linkCode=as2&tag=escapicom-20&linkId=OZW4IJLTNOWM3LFU)** by Hale Dwoskin and Lesther Levenson as well, and it was so enlightening that I plan to read the other 4 books in this series as well.
-
 **A few benefits that I have experienced while using release techniques to let go of things in my life:**
-
-
-
  	
   * Shifts in life-long emotional blocks
 
@@ -108,4 +102,4 @@ I am going to follow up this post with a write-up on the importance and power of
 
 In the mean time, if you have any questions- feel free to comment in the comment section below.
 
-**Recommend books for learning and practicing Release Techniques: [The Sedona Method](http://www.amazon.com/gp/product/0971933413/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0971933413&linkCode=as2&tag=escapicom-20&linkId=JA4OH7AFEPM7XSWN)** and** [Happiness is Free](http://www.amazon.com/gp/product/B00JVAW5N0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JVAW5N0&linkCode=as2&tag=escapicom-20&linkId=OZW4IJLTNOWM3LFU)** are both enlightening books.
+**Recommend books for learning and practicing Release Techniques: [The Sedona Method](http://www.amazon.com/gp/product/0971933413/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0971933413&linkCode=as2&tag=escapicom-20&linkId=JA4OH7AFEPM7XSWN)**

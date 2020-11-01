@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-08-31 19:36:22+00:00
 layout: post
-link: https://www.authenticgrowth.com/eft-gary-craig-interview/
+permalink: /eft-gary-craig-interview/
 published: false
 slug: eft-gary-craig-interview
 title: 'Emotional Freedom Technique: Chat with Founder Gary Craig'

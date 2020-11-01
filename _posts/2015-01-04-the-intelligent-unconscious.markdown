@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-01-04 20:34:24+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-intelligent-unconscious/
+permalink: /the-intelligent-unconscious/
 published: false
 slug: the-intelligent-unconscious
 title: 'Accepting All Aspects: The Intelligent Unconscious'

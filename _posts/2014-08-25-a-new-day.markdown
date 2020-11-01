@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-08-25 03:19:19+00:00
 layout: post
-link: https://www.authenticgrowth.com/a-new-day/
+permalink: /a-new-day/
 published: false
 slug: a-new-day
 title: Back At It Again - Why I'm Back Online and More Excited Than Ever

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-03-31 22:21:50+00:00
 layout: post
-link: https://www.authenticgrowth.com/stoicism/
+permalink: /stoicism/
 slug: stoicism
 title: 'Stoicism: The Ancient Greek Philosophy for Happiness'
 wordpress_id: 1678

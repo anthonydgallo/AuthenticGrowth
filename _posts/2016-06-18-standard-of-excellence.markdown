@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2016-06-18 23:11:17+00:00
 layout: post
-link: https://www.authenticgrowth.com/standard-of-excellence/
+permalink: /standard-of-excellence/
 slug: standard-of-excellence
 title: Setting a Standard of Excellence For Yourself
 wordpress_id: 2130

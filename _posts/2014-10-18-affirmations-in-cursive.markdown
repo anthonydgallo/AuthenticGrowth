@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-10-18 20:47:44+00:00
 layout: post
-link: https://www.authenticgrowth.com/affirmations-in-cursive/
+permalink: /affirmations-in-cursive/
 slug: affirmations-in-cursive
 title: Why You Should Write Your Affirmations In Cursive
 wordpress_id: 786

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-08-27 04:24:37+00:00
 layout: post
-link: https://www.authenticgrowth.com/skydiving/
+permalink: /skydiving/
 published: false
 slug: skydiving
 title: 'Jumping Out Of Planes: Why I Went Skydiving'

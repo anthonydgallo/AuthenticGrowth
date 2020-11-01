@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-27 16:54:52+00:00
 layout: post
-link: https://www.authenticgrowth.com/tapping/
+permalink: /tapping/
 slug: tapping
 title: 'Emotional Freedom Technique: A Tool For Healing Your Past'
 wordpress_id: 729

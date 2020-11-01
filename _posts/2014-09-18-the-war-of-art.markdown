@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-18 00:07:49+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-war-of-art/
+permalink: /the-war-of-art/
 slug: the-war-of-art
 title: 'The War of Art: A Fantastic Read for Kickstarting Your Creativity'
 wordpress_id: 340

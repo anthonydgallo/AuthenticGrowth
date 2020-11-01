@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-11 17:23:55+00:00
 layout: post
-link: https://www.authenticgrowth.com/reading-addiction/
+permalink: /reading-addiction/
 slug: reading-addiction
 title: 'Reading Addiction: On Masking Your Voice'
 wordpress_id: 515

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-11-10 19:36:24+00:00
 layout: post
-link: https://www.authenticgrowth.com/importance-of-health/
+permalink: /importance-of-health/
 slug: importance-of-health
 title: 'The Fundamental Key To Happiness: A Healthy Lifestyle'
 wordpress_id: 877

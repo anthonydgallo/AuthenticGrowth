@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-01-11 18:37:12+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-importance-of-self-love/
+permalink: /the-importance-of-self-love/
 published: false
 slug: the-importance-of-self-love
 title: 'The Starting Point of Personal Growth: Self-Love'

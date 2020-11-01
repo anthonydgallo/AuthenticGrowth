@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-02-04 23:41:29+00:00
 layout: post
-link: https://www.authenticgrowth.com/sleep-like-a-baby/
+permalink: /sleep-like-a-baby/
 published: false
 slug: sleep-like-a-baby
 title: 'Sleep Talk: How To Sleep Like A Baby'

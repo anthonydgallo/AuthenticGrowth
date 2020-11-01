@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-23 23:28:30+00:00
 layout: post
-link: https://www.authenticgrowth.com/release-muscle-tension/
+permalink: /release-muscle-tension/
 slug: release-muscle-tension
 title: 'Relax Yourself: Releasing Muscle Tension With Awareness'
 wordpress_id: 697

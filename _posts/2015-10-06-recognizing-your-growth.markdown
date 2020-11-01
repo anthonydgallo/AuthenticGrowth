@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-10-06 01:08:03+00:00
 layout: post
-link: https://www.authenticgrowth.com/recognizing-your-growth/
+permalink: /recognizing-your-growth/
 slug: recognizing-your-growth
 title: 'Self-Appreciation: Recognizing Your Progress'
 wordpress_id: 1942

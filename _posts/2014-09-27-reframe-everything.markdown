@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-27 18:06:33+00:00
 layout: post
-link: https://www.authenticgrowth.com/reframe-everything/
+permalink: /reframe-everything/
 published: false
 slug: reframe-everything
 title: 'Reframing: Using NLP To Adjust Your Perception'

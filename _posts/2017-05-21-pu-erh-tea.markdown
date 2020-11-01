@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2017-05-21 16:00:57+00:00
 layout: post
-link: 'https://www.authenticgrowth.com/pu-erh-tea/'
+permalink: /pu-erh-tea/
 slug: pu-erh-tea
 title: 'Coffee Alternatives: My Pu-Erh Tea Habit'
 wordpress_id: 2695

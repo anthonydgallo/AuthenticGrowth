@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-18 17:15:46+00:00
 layout: post
-link: https://www.authenticgrowth.com/power-of-perspective/
+permalink: /power-of-perspective/
 slug: power-of-perspective
 title: 'The Lifetime Perspective: How To Value A Day'
 wordpress_id: 622

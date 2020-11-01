@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-11-08 22:05:22+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-hypomanic-edge/
+permalink: /the-hypomanic-edge/
 slug: the-hypomanic-edge
 title: 'The Hypomanic Edge: Why Being a Little Bit Crazy Can Help in Your Success'
 wordpress_id: 1964

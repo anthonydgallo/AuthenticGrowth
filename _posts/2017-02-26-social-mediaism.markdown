@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2017-02-26 17:57:53+00:00
 layout: post
-link: https://www.authenticgrowth.com/social-mediaism/
+permalink: /social-mediaism/
 slug: social-mediaism
 title: 'Social Mediaism: Freeing Yourself From This Generation''s Largest Addiction'
 wordpress_id: 2447

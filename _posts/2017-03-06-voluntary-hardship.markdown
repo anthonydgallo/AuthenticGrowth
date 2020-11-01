@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2017-03-06 00:46:29+00:00
 layout: post
-link: https://www.authenticgrowth.com/voluntary-hardship/
+permalink: /voluntary-hardship/
 slug: voluntary-hardship
 title: 'Voluntary Hardship: A Practice For Building Fortitude And Character'
 wordpress_id: 2573

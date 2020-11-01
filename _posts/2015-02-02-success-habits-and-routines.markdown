@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-02-02 17:22:09+00:00
 layout: post
-link: https://www.authenticgrowth.com/success-habits-and-routines/
+permalink: /success-habits-and-routines/
 slug: success-habits-and-routines
 title: 'The Slight Edge: How Your Habits and Routines Transform Your Success'
 wordpress_id: 1249

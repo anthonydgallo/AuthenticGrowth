@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-12-16 23:27:16+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-most-powerful-personal-growth-tool/
+permalink: /the-most-powerful-personal-growth-tool/
 slug: the-most-powerful-personal-growth-tool
 title: 'Focus: Your Most Powerful Personal Growth Tool'
 wordpress_id: 941

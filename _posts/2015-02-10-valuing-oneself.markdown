@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-02-10 21:30:28+00:00
 layout: post
-link: https://www.authenticgrowth.com/valuing-oneself/
+permalink: /valuing-oneself/
 slug: valuing-oneself
 title: 'Our Potential: How To Value Yourself'
 wordpress_id: 1419

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-10-03 22:35:15+00:00
 layout: post
-link: https://www.authenticgrowth.com/uncover-your-beliefs/
+permalink: /uncover-your-beliefs/
 slug: uncover-your-beliefs
 title: 'Changing Perpsectives: Identifying and Updating Beliefs'
 wordpress_id: 754

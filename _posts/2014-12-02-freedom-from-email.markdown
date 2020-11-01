@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-12-02 17:08:26+00:00
 layout: post
-link: https://www.authenticgrowth.com/freedom-from-email/
+permalink: /freedom-from-email/
 published: false
 slug: freedom-from-email
 title: 'Freedom From Marketing: Happiness In Less Advertising'

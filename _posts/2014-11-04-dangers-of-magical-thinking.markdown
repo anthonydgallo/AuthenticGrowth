@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-11-04 19:53:22+00:00
 layout: post
-link: https://www.authenticgrowth.com/dangers-of-magical-thinking/
+permalink: /dangers-of-magical-thinking/
 published: false
 slug: dangers-of-magical-thinking
 title: 'Magical Thinking: Tips For Staying Grounded In Reality'

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2017-10-06 14:50:11+00:00
 layout: post
-link: https://www.authenticgrowth.com/falling-into-your-own-path/
+permalink: /falling-into-your-own-path/
 slug: falling-into-your-own-path
 title: Finding (Or Falling Into) Your Own Path
 wordpress_id: 2749

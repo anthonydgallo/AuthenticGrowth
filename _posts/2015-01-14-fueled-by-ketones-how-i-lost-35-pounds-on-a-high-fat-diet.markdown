@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-01-14 11:06:30+00:00
 layout: post
-link: https://www.authenticgrowth.com/fueled-by-ketones-how-i-lost-35-pounds-on-a-high-fat-diet/
+permalink: /fueled-by-ketones/
 slug: fueled-by-ketones-how-i-lost-35-pounds-on-a-high-fat-diet
 title: 'Fueled By Ketones: How I Lost 35 Pounds on a High-fat Diet'
 wordpress_id: 1077

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-14 23:29:58+00:00
 layout: post
-link: https://www.authenticgrowth.com/detox-bath/
+permalink: /detox-bath/
 redirect-from:
 - /detox-bath/
 slug: detox-bath

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-09-17 02:48:17+00:00
 layout: post
-link: https://www.authenticgrowth.com/the-power-of-feeling-fully/
+permalink: /the-power-of-feeling-fully/
 slug: the-power-of-feeling-fully
 title: 'Self-Expression: The Power of Feeling Fully and Accepting Things'
 wordpress_id: 589

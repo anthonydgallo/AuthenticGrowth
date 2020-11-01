@@ -4,6 +4,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: '2019-04-17 16:00:57 +0000'
 layout: post
+permalink: /being-told-what-to-think/
 categories:
 - Personal Growth
 tags:

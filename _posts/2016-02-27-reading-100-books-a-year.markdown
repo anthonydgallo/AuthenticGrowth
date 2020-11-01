@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2016-02-27 19:29:51+00:00
 layout: post
-link: https://www.authenticgrowth.com/reading-100-books-a-year/
+permalink: /reading-100-books-a-year/
 slug: reading-100-books-a-year
 title: 5 Steps To Reading 100 Books A Year
 wordpress_id: 2052

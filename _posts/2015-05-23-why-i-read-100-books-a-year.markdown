@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-05-23 17:19:51+00:00
 layout: post
-link: https://www.authenticgrowth.com/why-i-read-100-books-a-year/
+permalink: /why-i-read-100-books-a-year/
 slug: why-i-read-100-books-a-year
 title: 'Self-Education: Why You Should Read One Hundred Books A Year'
 wordpress_id: 1747

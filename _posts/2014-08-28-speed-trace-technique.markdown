@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-08-28 03:12:33+00:00
 layout: post
-link: https://www.authenticgrowth.com/speed-trace-technique/
+permalink: /speed-trace-technique/
 slug: speed-trace-technique
 title: 'Speed Trace: Releasing Negative Emotions From Your Life'
 wordpress_id: 85

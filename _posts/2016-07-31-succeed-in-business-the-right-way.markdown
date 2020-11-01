@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2016-07-31 14:38:31+00:00
 layout: post
-link: https://www.authenticgrowth.com/succeed-in-business-the-right-way/
+permalink: /succeed-in-business-the-right-way/
 slug: succeed-in-business-the-right-way
 title: How To Succeed In The Business World (The Right Way)
 wordpress_id: 2175

@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2014-10-23 20:31:11+00:00
 layout: post
-link: https://www.authenticgrowth.com/how-to-eat-consciously/
+permalink: /how-to-eat-consciously/
 slug: how-to-eat-consciously
 title: 'Eating Consciously: A Beginner''s Guide'
 wordpress_id: 813

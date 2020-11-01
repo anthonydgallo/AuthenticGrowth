@@ -3,7 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-01-19 17:21:53+00:00
 layout: post
-link: https://www.authenticgrowth.com/forgiveness-the-gift-you-give-yourself/
+permalink: /forgiveness-the-gift-you-give-yourself/
 slug: forgiveness-the-gift-you-give-yourself
 title: 'Forgiveness: The Gift You Give Yourself'
 wordpress_id: 1140

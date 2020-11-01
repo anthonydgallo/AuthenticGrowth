@@ -3,8 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2016-09-10 15:25:01+00:00
 layout: post
-redirect_from:
-- /microcosmic-orbit/
+permalink: /microcosmic-orbit/
 slug: microcosmic-orbit
 title: 'Introduction to Qi Gong: The Microcosmic Orbit'
 wordpress_id: 2234

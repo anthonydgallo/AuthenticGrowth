@@ -3,8 +3,7 @@ author: anthony@authenticgrowth.com
 comments: false
 date: 2015-03-08 18:05:21+00:00
 layout: post
-redirect_from:
-- /performance-enhancing-thoughts/
+permalink: /performance-enhancing-thoughts/
 slug: performance-enhancing-thoughts
 title: 'Performance Enhancing Thoughts: Your Unfair Advantage'
 wordpress_id: 1614

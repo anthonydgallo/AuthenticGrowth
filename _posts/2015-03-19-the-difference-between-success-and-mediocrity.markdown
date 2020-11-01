@@ -3,8 +3,7 @@ author: anthony@authenticgrowth.com
 comments: true
 date: 2015-03-19 23:10:39+00:00
 layout: post
-redirect_from:
-- /the-difference-between-success-and-mediocrity/
+permalink: /the-difference-between-success-and-mediocrity/
 slug: the-difference-between-success-and-mediocrity
 title: The Difference Between Success and Mediocrity
 wordpress_id: 1656

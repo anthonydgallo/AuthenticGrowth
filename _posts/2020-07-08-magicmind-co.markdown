@@ -13,10 +13,11 @@ categories:
   - Personal Growth
 tags: null
 published: true
+excerpt_separator: <!--more-->
 ---
-Over the years I've tested a lot of different mind supplements. MagicMind is a new brain booster I've been enjoying during quarantine.
-
-I'm a bio-hacker at heart and I've grown through seeing and becoming aware of how vitamins and nutrients affect my mind. I'm always looking for new things. I've strayed away from products that are just chemical concentrates, because these tend to overstimulate or have negative side affects. MagicMind is something new though and the ingredient list is excellent.
+Over the years I've tested a lot of different mind supplements. MagicMind is a new brain booster I've been enjoying during COVID lockdown.
+<!--more-->
+As a bio-hacker at heart I've grown through seeing and becoming aware of how vitamins and nutrients affect my mind. I'm always looking for new things. I've strayed away from products that are just chemical concentrates, because these tend to overstimulate or have negative side affects. MagicMind is something new and the ingredient list is excellent.
 
 ## **Enter Magic Mind**
 

@@ -82,7 +82,7 @@ url-pretty: "AuthenticGrowth.com"
 link-tags: false
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 150
+excerpt_length: 125
 
 # --- Colours / background image --- #
 
